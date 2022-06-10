@@ -7,7 +7,7 @@ import searchView from './views/searchView.js';
 import resultsView from './views/resultView.js';
 import paginationView from './views/paginationView.js';
 import bookmarksView from './views/bookmarksView.js';
-import addRecipeView from './views/addREcipeView.js';
+import addRecipeView from './views/addRecipeView.js';
 
 // if (module.hot) {
 //   module.hot.accept();
